@@ -1,4 +1,4 @@
-# 🏒 HockeyStats
+# HockeyStats
 
 **NHL Results, Advanced Analytics & Statistical Predictions**
 
