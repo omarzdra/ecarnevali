@@ -1,2 +1,2 @@
-# ecarnevali
-Študijski projekt - aplikacija za spremljanje vozil in GPS tracking
+# HockeyStats
+Študijski projekt - aplikacija za pregled rezultatov NHL-a in napovedovanje ostali metrik
