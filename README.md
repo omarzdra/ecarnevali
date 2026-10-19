@@ -1,4 +1,4 @@
-# 🏒 HockeyStats
+# HockeyStats
 
 **NHL Results, Advanced Analytics & Statistical Predictions**
 
@@ -22,6 +22,7 @@ Projekt nastaja v okviru študijskega predmeta **TIDS – integracija storitev**
 - [Dokumentacija in delo s Codexom](#dokumentacija-in-delo-s-codexom)
 - [Testiranje in deployment](#testiranje-in-deployment)
 - [Viri in omejitve](#viri-in-omejitve)
+- [XML & JSON Data Integration Assignment](#xml--json-data-integration-assignment)
 
 ## Glavne funkcionalnosti
 
@@ -280,6 +281,52 @@ npm run build
 Testirati je treba zlasti adapterje zunanjih virov, CSV importer, povezovanje tekem, napake ob manjkajočih podatkih ter matematično pravilnost in reproducibilnost napovedi. Testi naj uporabljajo preverjene ali sintetične fixtures brez neupravičenega objavljanja izvornih MoneyPuck podatkov.
 
 Predvideni deployment: **Vercel** za React aplikacijo in **Railway** za Express API. Povezavi do javne demonstracije in status CI se dodata šele po dejanski vzpostavitvi. Glej [testno strategijo](docs/10-TESTING.md) in [deployment](docs/12-DEPLOYMENT.md).
+
+## XML & JSON Data Integration Assignment
+
+Ta samostojni del projekta prikazuje branje, pretvorbo, povezovanje, filtriranje in izvoz strukturiranih XML ter JSON podatkov na primeru sintetičnih NHL tekem. Ne uporablja zunanjega API-ja ali MoneyPuck podatkov in ne spreminja načrtovane spletne arhitekture.
+
+### XML datoteke
+
+Lokalni vhod sestavljajo:
+
+```text
+data/teams.xml
+data/games.xml
+data/gameStats.xml
+```
+
+Dokumenti so povezani prek ID-jev:
+
+```text
+teams.id
+    ↓
+games.homeTeamId / games.awayTeamId
+
+games.id
+    ↓
+gameStats.gameId
+```
+
+### Zagon
+
+```bash
+npm install
+npm run xml
+```
+
+Program podatke normalizira v JavaScript objekte, jih poveže z `Map`, rezultate prikaže s `console.table()` in ustvari oba izvozna dokumenta.
+
+### Filter in izhod
+
+Primer izvozi tekme po `2026-10-10`, pri katerih je skupni expected goals (xG) najmanj `5.5`.
+
+```text
+data/filtrirano.json
+data/filtrirano.xml
+```
+
+Oba izhoda vsebujeta isti nabor filtriranih tekem. Vhodni podatki so namenoma sintetični in so uporabljeni le za prikaz XML/JSON integracije.
 
 ## Viri in omejitve
 

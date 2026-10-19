@@ -1,0 +1,157 @@
+[
+  {
+    "gameId": "GAME006",
+    "date": "2026-10-12",
+    "homeTeam": {
+      "id": "TEAM007",
+      "name": "Colorado Avalanche",
+      "abbreviation": "COL"
+    },
+    "awayTeam": {
+      "id": "TEAM008",
+      "name": "Dallas Stars",
+      "abbreviation": "DAL"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "resultType": "OT",
+    "venue": "Ball Arena",
+    "stats": {
+      "homeShots": 36,
+      "awayShots": 31,
+      "homeXG": 3.5,
+      "awayXG": 2.92,
+      "homeCorsi": 55.4,
+      "awayCorsi": 44.6,
+      "homeFenwick": 53.8,
+      "awayFenwick": 46.2,
+      "totalXG": 6.42
+    }
+  },
+  {
+    "gameId": "GAME008",
+    "date": "2026-10-14",
+    "homeTeam": {
+      "id": "TEAM001",
+      "name": "Florida Panthers",
+      "abbreviation": "FLA"
+    },
+    "awayTeam": {
+      "id": "TEAM003",
+      "name": "Toronto Maple Leafs",
+      "abbreviation": "TOR"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "resultType": "SO",
+    "venue": "Amerant Bank Arena",
+    "stats": {
+      "homeShots": 35,
+      "awayShots": 32,
+      "homeXG": 3.1,
+      "awayXG": 2.7,
+      "homeCorsi": 53.7,
+      "awayCorsi": 46.3,
+      "homeFenwick": 52.8,
+      "awayFenwick": 47.2,
+      "totalXG": 5.8
+    }
+  },
+  {
+    "gameId": "GAME010",
+    "date": "2026-10-16",
+    "homeTeam": {
+      "id": "TEAM006",
+      "name": "New Jersey Devils",
+      "abbreviation": "NJD"
+    },
+    "awayTeam": {
+      "id": "TEAM005",
+      "name": "New York Rangers",
+      "abbreviation": "NYR"
+    },
+    "score": {
+      "home": 5,
+      "away": 3
+    },
+    "resultType": "REG",
+    "venue": "Prudential Center",
+    "stats": {
+      "homeShots": 39,
+      "awayShots": 34,
+      "homeXG": 3.35,
+      "awayXG": 2.55,
+      "homeCorsi": 54.2,
+      "awayCorsi": 45.8,
+      "homeFenwick": 52.9,
+      "awayFenwick": 47.1,
+      "totalXG": 5.9
+    }
+  },
+  {
+    "gameId": "GAME012",
+    "date": "2026-10-18",
+    "homeTeam": {
+      "id": "TEAM010",
+      "name": "Vegas Golden Knights",
+      "abbreviation": "VGK"
+    },
+    "awayTeam": {
+      "id": "TEAM011",
+      "name": "Vancouver Canucks",
+      "abbreviation": "VAN"
+    },
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "resultType": "REG",
+    "venue": "T-Mobile Arena",
+    "stats": {
+      "homeShots": 37,
+      "awayShots": 29,
+      "homeXG": 3.48,
+      "awayXG": 2.62,
+      "homeCorsi": 56,
+      "awayCorsi": 44,
+      "homeFenwick": 54.7,
+      "awayFenwick": 45.3,
+      "totalXG": 6.1
+    }
+  },
+  {
+    "gameId": "GAME015",
+    "date": "2026-10-21",
+    "homeTeam": {
+      "id": "TEAM004",
+      "name": "Boston Bruins",
+      "abbreviation": "BOS"
+    },
+    "awayTeam": {
+      "id": "TEAM001",
+      "name": "Florida Panthers",
+      "abbreviation": "FLA"
+    },
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "resultType": "REG",
+    "venue": "TD Garden",
+    "stats": {
+      "homeShots": 36,
+      "awayShots": 28,
+      "homeXG": 3.2,
+      "awayXG": 2.5,
+      "homeCorsi": 58,
+      "awayCorsi": 42,
+      "homeFenwick": 56.6,
+      "awayFenwick": 43.4,
+      "totalXG": 5.7
+    }
+  }
+]

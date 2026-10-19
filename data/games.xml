@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+  <game id="GAME001"><date>2026-10-07</date><homeTeamId>TEAM001</homeTeamId><awayTeamId>TEAM002</awayTeamId><homeGoals>4</homeGoals><awayGoals>2</awayGoals><resultType>REG</resultType><venue>Amerant Bank Arena</venue></game>
+  <game id="GAME002"><date>2026-10-08</date><homeTeamId>TEAM003</homeTeamId><awayTeamId>TEAM004</awayTeamId><homeGoals>3</homeGoals><awayGoals>2</awayGoals><resultType>OT</resultType><venue>Scotiabank Arena</venue></game>
+  <game id="GAME003"><date>2026-10-09</date><homeTeamId>TEAM005</homeTeamId><awayTeamId>TEAM006</awayTeamId><homeGoals>1</homeGoals><awayGoals>3</awayGoals><resultType>REG</resultType><venue>Madison Square Garden</venue></game>
+  <game id="GAME004"><date>2026-10-10</date><homeTeamId>TEAM007</homeTeamId><awayTeamId>TEAM008</awayTeamId><homeGoals>5</homeGoals><awayGoals>4</awayGoals><resultType>SO</resultType><venue>Ball Arena</venue></game>
+  <game id="GAME005"><date>2026-10-11</date><homeTeamId>TEAM009</homeTeamId><awayTeamId>TEAM010</awayTeamId><homeGoals>2</homeGoals><awayGoals>4</awayGoals><resultType>REG</resultType><venue>Rogers Place</venue></game>
+  <game id="GAME006"><date>2026-10-12</date><homeTeamId>TEAM007</homeTeamId><awayTeamId>TEAM008</awayTeamId><homeGoals>4</homeGoals><awayGoals>3</awayGoals><resultType>OT</resultType><venue>Ball Arena</venue></game>
+  <game id="GAME007"><date>2026-10-13</date><homeTeamId>TEAM011</homeTeamId><awayTeamId>TEAM012</awayTeamId><homeGoals>2</homeGoals><awayGoals>1</awayGoals><resultType>REG</resultType><venue></venue></game>
+  <game id="GAME008"><date>2026-10-14</date><homeTeamId>TEAM001</homeTeamId><awayTeamId>TEAM003</awayTeamId><homeGoals>4</homeGoals><awayGoals>3</awayGoals><resultType>SO</resultType><venue>Amerant Bank Arena</venue></game>
+  <game id="GAME009"><date>2026-10-15</date><homeTeamId>TEAM002</homeTeamId><awayTeamId>TEAM004</awayTeamId><homeGoals>2</homeGoals><awayGoals>0</awayGoals><resultType>REG</resultType><venue>Benchmark International Arena</venue></game>
+  <game id="GAME010"><date>2026-10-16</date><homeTeamId>TEAM006</homeTeamId><awayTeamId>TEAM005</awayTeamId><homeGoals>5</homeGoals><awayGoals>3</awayGoals><resultType>REG</resultType><venue>Prudential Center</venue></game>
+  <game id="GAME011"><date>2026-10-17</date><homeTeamId>TEAM008</homeTeamId><awayTeamId>TEAM009</awayTeamId><homeGoals>3</homeGoals><awayGoals>4</awayGoals><resultType>OT</resultType><venue>American Airlines Center</venue></game>
+  <game id="GAME012"><date>2026-10-18</date><homeTeamId>TEAM010</homeTeamId><awayTeamId>TEAM011</awayTeamId><homeGoals>4</homeGoals><awayGoals>2</awayGoals><resultType>REG</resultType><venue>T-Mobile Arena</venue></game>
+  <game id="GAME013"><date>2026-10-19</date><homeTeamId>TEAM012</homeTeamId><awayTeamId>TEAM007</awayTeamId><homeGoals>1</homeGoals><awayGoals>2</awayGoals><resultType>REG</resultType><venue>Canada Life Centre</venue></game>
+  <game id="GAME014"><date>2026-10-20</date><homeTeamId>TEAM003</homeTeamId><awayTeamId>TEAM005</awayTeamId><homeGoals>3</homeGoals><awayGoals>4</awayGoals><resultType>SO</resultType><venue>Scotiabank Arena</venue></game>
+  <game id="GAME015"><date>2026-10-21</date><homeTeamId>TEAM004</homeTeamId><awayTeamId>TEAM001</awayTeamId><homeGoals>4</homeGoals><awayGoals>2</awayGoals><resultType>REG</resultType><venue>TD Garden</venue></game>
+</games>

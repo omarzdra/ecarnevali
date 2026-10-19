@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+  <team id="TEAM001">
+    <name>Florida Panthers</name><abbreviation>FLA</abbreviation><city>Sunrise</city>
+    <conference>Eastern</conference><division>Atlantic</division><founded>1993</founded><arena>Amerant Bank Arena</arena>
+  </team>
+  <team id="TEAM002">
+    <name>Tampa Bay Lightning</name><abbreviation>TBL</abbreviation><city>Tampa</city>
+    <conference>Eastern</conference><division>Atlantic</division><founded>1992</founded><arena>Benchmark International Arena</arena>
+  </team>
+  <team id="TEAM003">
+    <name>Toronto Maple Leafs</name><abbreviation>TOR</abbreviation><city>Toronto</city>
+    <conference>Eastern</conference><division>Atlantic</division><founded>1917</founded><arena>Scotiabank Arena</arena>
+  </team>
+  <team id="TEAM004">
+    <name>Boston Bruins</name><abbreviation>BOS</abbreviation><city>Boston</city>
+    <conference>Eastern</conference><division>Atlantic</division><founded>1924</founded><arena>TD Garden</arena>
+  </team>
+  <team id="TEAM005">
+    <name>New York Rangers</name><abbreviation>NYR</abbreviation><city>New York</city>
+    <conference>Eastern</conference><division>Metropolitan</division><founded>1926</founded><arena>Madison Square Garden</arena>
+  </team>
+  <team id="TEAM006">
+    <name>New Jersey Devils</name><abbreviation>NJD</abbreviation><city>Newark</city>
+    <conference>Eastern</conference><division>Metropolitan</division><founded>1974</founded><arena>Prudential Center</arena>
+  </team>
+  <team id="TEAM007">
+    <name>Colorado Avalanche</name><abbreviation>COL</abbreviation><city>Denver</city>
+    <conference>Western</conference><division>Central</division><founded>1972</founded><arena>Ball Arena</arena>
+  </team>
+  <team id="TEAM008">
+    <name>Dallas Stars</name><abbreviation>DAL</abbreviation><city>Dallas</city>
+    <conference>Western</conference><division>Central</division><founded>1967</founded><arena>American Airlines Center</arena>
+  </team>
+  <team id="TEAM009">
+    <name>Edmonton Oilers</name><abbreviation>EDM</abbreviation><city>Edmonton</city>
+    <conference>Western</conference><division>Pacific</division><founded>1972</founded><arena>Rogers Place</arena>
+  </team>
+  <team id="TEAM010">
+    <name>Vegas Golden Knights</name><abbreviation>VGK</abbreviation><city>Las Vegas</city>
+    <conference>Western</conference><division>Pacific</division><founded>2017</founded><arena>T-Mobile Arena</arena>
+  </team>
+  <team id="TEAM011">
+    <name>Vancouver Canucks</name><abbreviation>VAN</abbreviation><city>Vancouver</city>
+    <conference>Western</conference><division>Pacific</division><founded>1970</founded><arena>Rogers Arena</arena>
+  </team>
+  <team id="TEAM012">
+    <name>Winnipeg Jets</name><abbreviation>WPG</abbreviation><city>Winnipeg</city>
+    <conference>Western</conference><division>Central</division><founded>1999</founded><arena></arena>
+  </team>
+</teams>

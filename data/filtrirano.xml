@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filteredGames>
+  <game id="GAME006">
+    <date>2026-10-12</date>
+    <homeTeam id="TEAM007">
+      <name>Colorado Avalanche</name>
+      <abbreviation>COL</abbreviation>
+    </homeTeam>
+    <awayTeam id="TEAM008">
+      <name>Dallas Stars</name>
+      <abbreviation>DAL</abbreviation>
+    </awayTeam>
+    <score>
+      <home>4</home>
+      <away>3</away>
+    </score>
+    <resultType>OT</resultType>
+    <venue>Ball Arena</venue>
+    <stats>
+      <homeShots>36</homeShots>
+      <awayShots>31</awayShots>
+      <homeXG>3.5</homeXG>
+      <awayXG>2.92</awayXG>
+      <homeCorsi>55.4</homeCorsi>
+      <awayCorsi>44.6</awayCorsi>
+      <homeFenwick>53.8</homeFenwick>
+      <awayFenwick>46.2</awayFenwick>
+      <totalXG>6.42</totalXG>
+    </stats>
+  </game>
+  <game id="GAME008">
+    <date>2026-10-14</date>
+    <homeTeam id="TEAM001">
+      <name>Florida Panthers</name>
+      <abbreviation>FLA</abbreviation>
+    </homeTeam>
+    <awayTeam id="TEAM003">
+      <name>Toronto Maple Leafs</name>
+      <abbreviation>TOR</abbreviation>
+    </awayTeam>
+    <score>
+      <home>4</home>
+      <away>3</away>
+    </score>
+    <resultType>SO</resultType>
+    <venue>Amerant Bank Arena</venue>
+    <stats>
+      <homeShots>35</homeShots>
+      <awayShots>32</awayShots>
+      <homeXG>3.1</homeXG>
+      <awayXG>2.7</awayXG>
+      <homeCorsi>53.7</homeCorsi>
+      <awayCorsi>46.3</awayCorsi>
+      <homeFenwick>52.8</homeFenwick>
+      <awayFenwick>47.2</awayFenwick>
+      <totalXG>5.8</totalXG>
+    </stats>
+  </game>
+  <game id="GAME010">
+    <date>2026-10-16</date>
+    <homeTeam id="TEAM006">
+      <name>New Jersey Devils</name>
+      <abbreviation>NJD</abbreviation>
+    </homeTeam>
+    <awayTeam id="TEAM005">
+      <name>New York Rangers</name>
+      <abbreviation>NYR</abbreviation>
+    </awayTeam>
+    <score>
+      <home>5</home>
+      <away>3</away>
+    </score>
+    <resultType>REG</resultType>
+    <venue>Prudential Center</venue>
+    <stats>
+      <homeShots>39</homeShots>
+      <awayShots>34</awayShots>
+      <homeXG>3.35</homeXG>
+      <awayXG>2.55</awayXG>
+      <homeCorsi>54.2</homeCorsi>
+      <awayCorsi>45.8</awayCorsi>
+      <homeFenwick>52.9</homeFenwick>
+      <awayFenwick>47.1</awayFenwick>
+      <totalXG>5.9</totalXG>
+    </stats>
+  </game>
+  <game id="GAME012">
+    <date>2026-10-18</date>
+    <homeTeam id="TEAM010">
+      <name>Vegas Golden Knights</name>
+      <abbreviation>VGK</abbreviation>
+    </homeTeam>
+    <awayTeam id="TEAM011">
+      <name>Vancouver Canucks</name>
+      <abbreviation>VAN</abbreviation>
+    </awayTeam>
+    <score>
+      <home>4</home>
+      <away>2</away>
+    </score>
+    <resultType>REG</resultType>
+    <venue>T-Mobile Arena</venue>
+    <stats>
+      <homeShots>37</homeShots>
+      <awayShots>29</awayShots>
+      <homeXG>3.48</homeXG>
+      <awayXG>2.62</awayXG>
+      <homeCorsi>56</homeCorsi>
+      <awayCorsi>44</awayCorsi>
+      <homeFenwick>54.7</homeFenwick>
+      <awayFenwick>45.3</awayFenwick>
+      <totalXG>6.1</totalXG>
+    </stats>
+  </game>
+  <game id="GAME015">
+    <date>2026-10-21</date>
+    <homeTeam id="TEAM004">
+      <name>Boston Bruins</name>
+      <abbreviation>BOS</abbreviation>
+    </homeTeam>
+    <awayTeam id="TEAM001">
+      <name>Florida Panthers</name>
+      <abbreviation>FLA</abbreviation>
+    </awayTeam>
+    <score>
+      <home>4</home>
+      <away>2</away>
+    </score>
+    <resultType>REG</resultType>
+    <venue>TD Garden</venue>
+    <stats>
+      <homeShots>36</homeShots>
+      <awayShots>28</awayShots>
+      <homeXG>3.2</homeXG>
+      <awayXG>2.5</awayXG>
+      <homeCorsi>58</homeCorsi>
+      <awayCorsi>42</awayCorsi>
+      <homeFenwick>56.6</homeFenwick>
+      <awayFenwick>43.4</awayFenwick>
+      <totalXG>5.7</totalXG>
+    </stats>
+  </game>
+</filteredGames>

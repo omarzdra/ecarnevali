@@ -1,0 +1,24 @@
+{
+  "name": "hockeystats",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "xml": "node src/xml-json/index.js",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "build": "npm run typecheck"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.37.0",
+    "@types/node": "^24.10.0",
+    "eslint": "^9.37.0",
+    "globals": "^16.4.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.0"
+  }
+}
