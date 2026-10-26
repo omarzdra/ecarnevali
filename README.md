@@ -23,6 +23,7 @@ Projekt nastaja v okviru študijskega predmeta **TIDS – integracija storitev**
 - [Testiranje in deployment](#testiranje-in-deployment)
 - [Viri in omejitve](#viri-in-omejitve)
 - [XML & JSON Data Integration Assignment](#xml--json-data-integration-assignment)
+- [NHL News Parser](#nhl-news-parser)
 
 ## Glavne funkcionalnosti
 
@@ -327,6 +328,24 @@ data/filtrirano.xml
 ```
 
 Oba izhoda vsebujeta isti nabor filtriranih tekem. Vhodni podatki so namenoma sintetični in so uporabljeni le za prikaz XML/JSON integracije.
+
+## NHL News Parser
+
+HockeyStats vsebuje Puppeteer parser za avtomatizirano pridobivanje najnovejših NHL novic neposredno iz HTML/DOM strani NHL.com.
+
+Parser zaženemo z:
+
+```bash
+npm run parse:nhl-news
+```
+
+Rezultat se shrani v:
+
+```text
+data/parsed/nhl_news.json
+```
+
+Več informacij je v [dokumentaciji parserja](docs/PARSER.md).
 
 ## Viri in omejitve
 

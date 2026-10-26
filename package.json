@@ -5,13 +5,15 @@
   "type": "module",
   "scripts": {
     "xml": "node src/xml-json/index.js",
+    "parse:nhl-news": "node scripts/nhlNewsParser.js",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "build": "npm run typecheck"
   },
   "dependencies": {
-    "fast-xml-parser": "^5.3.1"
+    "fast-xml-parser": "^5.3.1",
+    "puppeteer": "^25.16.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.37.0",

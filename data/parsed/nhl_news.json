@@ -1,0 +1,158 @@
+{
+  "source": "NHL.com",
+  "sourceUrl": "https://www.nhl.com/news/",
+  "scrapedAt": "2026-10-26T12:46:52.737Z",
+  "count": 15,
+  "articles": [
+    {
+      "id": "news-001",
+      "title": "Quinn Hughes reaches 500 points in return to Vancouver, Wild top Canucks",
+      "url": "https://www.nhl.com/news/minnesota-wild-vancouver-canucks-game-recap-october-25-2026",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792989010/prd/il59jac7aa7yioogntdb.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-002",
+      "title": "Jets look to build on lessons learned in Heritage Classic loss",
+      "url": "https://www.nhl.com/news/winnipeg-jets-look-to-build-on-lessons-of-2026-heritage-classic-loss",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792992106/prd/ksyxj9f546jwdyjltrdf.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-003",
+      "title": "Heritage Classic with Canadiens was something Fowler 'dreamed of my whole life'",
+      "url": "https://www.nhl.com/news/jacob-fowler-heritage-classic-sider-october-25-2026",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792993026/prd/m9tjenq9jacf6jt4doxe.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-004",
+      "title": "Heritage Classic blog: Jake Evans",
+      "url": "https://www.nhl.com/news/heritage-classic-blog-jake-evans-october-25-2026",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/prd/dxuazds2z1dm7cuxkcr2.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-005",
+      "title": "O'Reilly has four points, Predators roll past Avalanche",
+      "url": "https://www.nhl.com/news/colorado-avalanche-nashville-predators-game-recap-october-25-2026",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1792979407/prd/ewe0u8ydegjbpieiblbl.jpg",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-006",
+      "title": "Fowler makes 33 saves, Canadiens hold off Jets in Heritage Classic",
+      "url": "https://www.nhl.com/news/montreal-canadiens-winnipeg-jets-heritage-classic-game-recap-october-25-2026",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792980790/prd/utwueimsydibkgt44eeb.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-007",
+      "title": "Color of Hockey: Burgin inspires on, off ice as GM in British Columbia league",
+      "url": "https://www.nhl.com/news/color-of-hockey-mark-burgin-inspires-as-gm-in-british-columbia-league",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792769550/prd/ihhfwgnl5tf0xe0dje7n.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-008",
+      "title": "NHL nationally televised games for week of Oct. 26",
+      "url": "https://www.nhl.com/news/nhl-nationally-televised-games-for-week-of-october-26-2026",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792949474/prd/pralrf83uouezmn6p3bn.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-009",
+      "title": "Doughty wants to ‘play until over 40,’ win another Stanley Cup championship with Kings",
+      "url": "https://www.nhl.com/news/drew-doughty-wants-to-play-past-40-win-another-stanley-cup-championship-with-kings",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/prd/e3wubroz5fua7vfigpvx.jpg",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-010",
+      "title": "Gavin McKenna Watch: No. 1 pick, Maple Leafs continue western trip",
+      "url": "https://www.nhl.com/news/gavin-mckenna-watch-maple-leafs-continue-western-trip",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1792951044/prd/ip14z2j3igqnbnmhwicz.jpg",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-011",
+      "title": "Rookie Watch: Stenberg, Hagens among first-year players trending up",
+      "url": "https://www.nhl.com/news/rookie-watch-ivar-stenberg-james-hagens-among-first-year-players-trending-up",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792951286/prd/euscmiwjxcoqrpziiaen.png",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-012",
+      "title": "Robertson scores twice, Stars pull away from Islanders for fifth straight win",
+      "url": "https://www.nhl.com/news/new-york-islanders-dallas-stars-game-recap-october-25-2026",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1792975202/prd/lufq3kan48ufyd4dj6ux.jpg",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-013",
+      "title": "Beniers kicks off Seahawks game at Lumen Field",
+      "url": "https://www.nhl.com/news/topic/short-shifts/matty-beniers-kicks-off-seahawks-game-at-lumen-field",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1792976578/prd/dt56wfo249uiq64qcmqg.jpg",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-014",
+      "title": "Jets alumni return to drop puck ahead of Heritage Classic",
+      "url": "https://www.nhl.com/news/topic/short-shifts/jets-alumni-return-to-drop-puck-ahead-of-heritage-classic",
+      "publishedAt": "2026-10-26",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1792973044/prd/dnqomyyiwhr3oocrkpvq.jpg",
+      "source": "NHL.com"
+    },
+    {
+      "id": "news-015",
+      "title": "Eller scores late, lifts Panthers past Blackhawks",
+      "url": "https://www.nhl.com/news/florida-panthers-chicago-blackhawks-game-recap-october-25-2026",
+      "publishedAt": "2026-10-25",
+      "category": null,
+      "summary": null,
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1792967831/prd/oghrocf5zpzszrhoydsa.png",
+      "source": "NHL.com"
+    }
+  ]
+}
